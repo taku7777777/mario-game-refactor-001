@@ -1,0 +1,29 @@
+{
+  "name": "mario-game-refactor-001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taku7777777/mario-game-refactor-001.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taku7777777/mario-game-refactor-001/issues"
+  },
+  "homepage": "https://github.com/taku7777777/mario-game-refactor-001#readme"
+}
